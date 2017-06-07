@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/ardanlabs/kit/cfg"
-	"github.com/coralproject/coral-talk-driver/pkg/talk"
+	"github.com/coralproject/talk-go/pkg/talk"
 )
 
 // export TALK_URL="http://localhost:3000/api/v1/"

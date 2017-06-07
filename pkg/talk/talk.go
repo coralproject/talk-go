@@ -12,7 +12,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/coralproject/coral-talk-driver/pkg/webservice"
+	"github.com/coralproject/talk-go/pkg/webservice"
 )
 
 type Talk struct {
